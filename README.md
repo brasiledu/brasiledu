@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Olá+eu+sou+o+Eduardo/brasiledu!+;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Olá,+eu+sou+o+Eduardo!;Desenvolvedor+Fullstack+%7C+Apaixonado+por+tecnologia!;Python+%7C+Django+%7C+Node.js+%7C+Flutter;Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
 
+---
 
 ### 🛠️ Sobre Mim
 🔭 Atualmente trabalhando em: **[Desenvolvimento de Soluções Inovadoras]**  
@@ -12,6 +13,13 @@
 ### 🚀 Minhas Habilidades e Ferramentas
 
 ![Habilidades](https://skillicons.dev/icons?i=python,nodejs,django,flutter,java,html,react,git,docker,trello,cpp&theme=light)
+
+---
+
+### 🔐 Criptografia e Segurança
+![GIF de Criptografia](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+
+Sou apaixonado por explorar o mundo da **criptografia** e da **segurança de dados**. Sempre em busca de novas formas de proteger informações e desenvolver sistemas robustos.
 
 ---
 
@@ -40,3 +48,10 @@
 ![Contador de visitas](https://komarev.com/ghpvc/?username=brasiledu&color=blueviolet)
 
 ---
+
+
+### 🏆 Troféus do GitHub
+
+<div align="center">
+  [![Troféus](https://github-profile-trophy.vercel.app/?username=brasiledu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
