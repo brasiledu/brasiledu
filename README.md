@@ -12,7 +12,7 @@
 
 ### 🚀 Minhas Habilidades e Ferramentas
 
-![Habilidades](https://skillicons.dev/icons?i=python,nodejs,django,flutter,java,html,react,git,docker,trello,cpp&theme=light)
+![Habilidades](https://skillicons.dev/icons?i=python,nodejs,django,flutter,java,html,react,git,docker,css,cpp&theme=light)
 
 ---
 
