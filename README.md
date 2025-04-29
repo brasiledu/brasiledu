@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Olá,+eu+sou+o+Eduardo!;Desenvolvedor+Fullstack+%7C+Apaixonado+por+tecnologia!;Python+%7C+Django+%7C+Node.js+%7C+Flutter;Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=1000&lines=Olá,+eu+sou+o+Eduardo!;Desenvolvedor+Fullstack+%7C+Apaixonado+por+tecnologia!;Python+%7C+Django+%7C+Node.js+%7C+Flutter;Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
 
 ---
 
