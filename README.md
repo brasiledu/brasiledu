@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Olá+eu+sou+o+Eduardo/brasiledu!+;Seja+bem+vindo+ao+meu+perfil!;Python+%7C+Django+%7C+Node.js+%7C+Flutter)](https://git.io/typing-svg)
-/n
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Olá+eu+sou+o+Eduardo/brasiledu!+;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
 ## 👋 Olá, eu sou [Eduardo/brasiledu]!
