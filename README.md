@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Olá,+eu+sou+o+Eduardo!;Desenvolvedor+Fullstack+%7C+Apaixonado+por+tecnologia!;Python+%7C+Django+%7C+Node.js+%7C+Flutter;Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Olá,+eu+sou+o+Eduardo!;Desenvolvedor+Fullstack+%7C+Apaixonado+por+tecnologia!;Python+%7C+Django+%7C+Node.js+%7C+Flutter;Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -17,9 +17,9 @@
 ---
 
 ### 🔐 Criptografia e Segurança
-![GIF de Criptografia](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![GIF de Quantum Cryptography](https://i.makeagif.com/media/8-03-2015/og9Ko6.gif)
 
-Sou apaixonado por explorar o mundo da **criptografia** e da **segurança de dados**. Sempre em busca de novas formas de proteger informações e desenvolver sistemas robustos.
+Sou apaixonado por explorar o mundo da **criptografia quântica** e da **segurança de dados**. Sempre em busca de novas formas de proteger informações e desenvolver sistemas robustos para o futuro da tecnologia.
 
 ---
 
@@ -50,8 +50,3 @@ Sou apaixonado por explorar o mundo da **criptografia** e da **segurança de dad
 ---
 
 
-### 🏆 Troféus do GitHub
-
-<div align="center">
-  [![Troféus](https://github-profile-trophy.vercel.app/?username=brasiledu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
