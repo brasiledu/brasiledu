@@ -96,11 +96,11 @@
 ## 🌟 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/brasiledu/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brasiledu&repo=repo1&theme=radical" />
+  <a href="[https://github.com/brasiledu/Compiladores---2025-1.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brasiledu&repo=Compiladores---2025-1&theme=radical" />
   </a>
-  <a href="https://github.com/brasiledu/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brasiledu&repo=repo2&theme=radical" />
+  <a href="https://github.com/Mafe519/QualiSoja.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mafe519&repo=QualiSoja&theme=radical" />
   </a>
 </div>
 
@@ -131,15 +131,7 @@
 ## 💡 Frase Inspiradora
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=%22O+código+é+poesia+em+movimento%22;%22Transformando+café+em+código%22;%22Debugando+a+vida+uma+linha+por+vez%22" alt="Frases Inspiradoras" />
-</div>
-
----
-
-## 🎵 Tocando Agora
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=seu_spotify_id&cover_image=true&theme=radical&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=O+codigo+eh+poesia+em+movimento;Transformando+cafe+em+codigo;Debugando+a+vida+uma+linha+por+vez" alt="Frases Inspiradoras" />
 </div>
 
 ---
